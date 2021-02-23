@@ -107,7 +107,12 @@ header nav a:hover{
     cursor: pointer;
 }
 
-
+.sub-titulo {
+	margin-left: 15px;
+	font-size: 23px;
+	margin-bottom: 12px;
+	margin-top: 20px;
+}
 .carrosel-filmes{
     margin-top:5px;
 }
